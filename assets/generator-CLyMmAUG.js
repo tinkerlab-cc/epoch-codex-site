@@ -1,0 +1,1 @@
+import{h as e,m as t,s as n,t as r}from"./generator-CqsykhFx.js";import"./codex-DMPt3GaP.js";var i=e(),a=t(),o=n();try{let e=localStorage.getItem(`theme`);e&&(document.documentElement.dataset.theme=e)}catch{}(0,a.createRoot)(document.getElementById(`root`)).render((0,o.jsx)(i.StrictMode,{children:(0,o.jsx)(r,{})}));
