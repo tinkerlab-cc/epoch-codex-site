@@ -1,0 +1,39 @@
+{
+ "from": {
+  "version": "1.5.2",
+  "build": "157a8290bdc3",
+  "fingerprint": "5c2b57e9ca318c80",
+  "mined": "2026-10-08"
+ },
+ "to": {
+  "version": "1.5.2.2",
+  "build": "8dfd6929fe2d",
+  "fingerprint": "b97d219e1b468fc5",
+  "mined": "2026-10-11"
+ },
+ "counts": {},
+ "notes": {
+  "fields": [
+   {
+    "file": "uniques.json",
+    "added": [
+     "corruptionPreservesDroppableAffixes"
+    ],
+    "removed": []
+   },
+   {
+    "file": "sets.json",
+    "added": [
+     "corruptionPreservesDroppableAffixes"
+    ],
+    "removed": []
+   }
+  ],
+  "icons": [
+   "nodes/skillIcon-Summon_Sabertooth.webp",
+   "nodes/skillIcon-devouring-orb.webp",
+   "nodes/skillIcon-volatile-reversal.webp"
+  ]
+ },
+ "entries": []
+}

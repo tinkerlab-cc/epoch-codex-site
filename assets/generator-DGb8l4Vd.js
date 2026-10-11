@@ -1,0 +1,1 @@
+import{_ as e,g as t,s as n,t as r}from"./generator-jGfd44qS.js";import"./codex-B9sE7oUS.js";var i=e(),a=t(),o=n();try{let e=localStorage.getItem(`theme`);e&&(document.documentElement.dataset.theme=e)}catch{}(0,a.createRoot)(document.getElementById(`root`)).render((0,o.jsx)(i.StrictMode,{children:(0,o.jsx)(r,{})}));
